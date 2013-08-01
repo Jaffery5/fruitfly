@@ -11,3 +11,9 @@
  *= require store/spree_marketplace
  *= require store/spree_drop_ship
 */
+
+
+#logo{
+height:115px;
+width:90px;
+}
